@@ -12,8 +12,8 @@ int main(void)
 {
 	printf("/**********欢迎使用违约金计算器**********/\n");
 	printf("/*************作者：Phoenix*************/\n");
+	
 	xuanze();
-
 	jixu();
 
 	return 0;
