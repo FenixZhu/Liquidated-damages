@@ -28,7 +28,7 @@ void danlilv(void)
 	else if (c == 'b' || c == 'B')
 		djisuan(0.001);
 	else if (c == 'c' || c == 'C')
-		djisuan(0.001);
+		djisuan(0.0001);
 }
 void fulilv(void)
 {
@@ -39,7 +39,7 @@ void fulilv(void)
 	else if (c == 'b' || c == 'B')
 		fjisuan(0.001);
 	else if (c == 'c' || c == 'C')
-		fjisuan(0.001);
+		fjisuan(0.0001);
 }
 
 void djisuan(float n)                                   //单利率计算函数
